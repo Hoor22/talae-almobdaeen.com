@@ -38,6 +38,7 @@ nav ul a:hover{
 .detel{
 	margin-left: 8%;
 	margin-top: 12%;
+	
 }
 .detel h1{
 	font-size: 50px;
@@ -49,7 +50,8 @@ color: orange;
 }
 .detel p{
 	color: #555;
-	line-height: 22px;
+	line-height: 50px;
+	font-size: 50px;
 }
 .detel a{
 	background: #212121;
@@ -65,8 +67,8 @@ color: orange;
 	color: #ffa500;
 }
 .images{
-	width: 45%;
-	height: 80%;
+	width: 20%;
+	height: 60%;
 	position: absolute;
 	bottom: 0;
 	right: 100px;
@@ -153,7 +155,7 @@ nav .ha:hover {
 	text-align: center;
 }
 .card i{
-	font-size: 30px;
+	font-size: 50px;
 	display: block;
 	text-align: center;
 	margin: 25px 0px;
@@ -166,7 +168,7 @@ h5{
 }
 .num1 p{
  color: #eff4fd;
- font-size: 14px;
+ font-size: 20px;
  line-height: 20px;
  margin-bottom: 25px;
 }
@@ -250,7 +252,7 @@ footer p:nth-child(1){
 	
 }
 .slide-container{
-	min-height: 100vh;
+	min-height: 200vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -259,7 +261,7 @@ footer p:nth-child(1){
 }
 
 .cardd{
-	width: 350;
+	width: 800px;
 	border-radius: 25px;
     background: #fff;
 	
@@ -274,9 +276,12 @@ footer p:nth-child(1){
 	flex-direction: column;
 	padding: 10px 14px;
 }
+.card-contennt p{
+	font-size: 15px;;
+}
 .image-content{
 	position: relative;
-	row-gap: 5px;
+	row-gap: 19px;
 	
 	
 }
